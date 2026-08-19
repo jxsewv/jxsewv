@@ -65,6 +65,6 @@ Suite de herramientas defensivas y ofensivas desarrolladas en Python. Incluye es
 
 ## Connect
 
-- [LinkedIn](https://linkedin.com/in/tu-perfil)
+- [LinkedIn](https://www.linkedin.com/in/jose-pablo-jimenez/)
 - [TryHackMe](https://tryhackme.com/p/tu-usuario)
 - jmz.pablo.jose@gmail.com
