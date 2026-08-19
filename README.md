@@ -18,7 +18,7 @@ Estudiante de Ing. en Sistemas Computacionales enfocado en ciberseguridad (ofens
 
 | Repositorio | Descripción |
 |---|---|
-| [crypto-fundamentals-lab](https://github.com/tu-usuario/crypto-fundamentals-lab) | Criptografía aplicada y verificación de integridad — cifrado César/Vigenère, cracking de hashes y monitoreo de archivos |
+| [crypto-fundamentals-lab](https://github.com/jxsewv/crypto-fundamentals-lab) | Criptografía aplicada y verificación de integridad — cifrado César/Vigenère, cracking de hashes y monitoreo de archivos |
 | [network-security-tools](https://github.com/tu-usuario/network-security-tools) | Reconocimiento, análisis de tráfico y hardening de red — escáner de puertos, sniffer, fuerza bruta SSH y firewall CLI |
 | [defense-and-web-lab](https://github.com/tu-usuario/defense-and-web-lab) | Defensa activa y seguridad web — análisis de logs, honeypot SSH y auditoría de vulnerabilidades OWASP |
 | [iot-hardware-security](https://github.com/tu-usuario/iot-hardware-security) | Seguridad en IoT y redes inalámbricas con ESP32 — deauther Wi-Fi, Evil Twin, BadUSB y comunicación cifrada |
