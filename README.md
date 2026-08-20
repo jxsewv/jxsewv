@@ -3,7 +3,7 @@
 ![CTI](https://img.shields.io/badge/Focus-Cyber%20Threat%20Intelligence-purple)
 ![Framework](https://img.shields.io/badge/Framework-MITRE%20ATT%26CK-red)
 ![Platform](https://img.shields.io/badge/Platform-TryHackMe-blue)
-![Cert](https://img.shields.io/badge/Status-9th%20Semester-orange)
+![Status](https://img.shields.io/badge/Status-7th%20Semester-orange)
 ![Code](https://img.shields.io/badge/Code-Python%20%7C%20Bash%20%7C%20C%2B%2B-brightgreen)
 
 Estudiante de Ing. en Sistemas Computacionales enfocado en ciberseguridad (ofensiva y defensiva), seguridad en redes, análisis de amenazas y desarrollo de herramientas de seguridad. En búsqueda de oportunidades de internship, becario o roles junior en ciberseguridad, ingeniería de redes y operaciones de seguridad (SOC).
