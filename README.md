@@ -6,7 +6,7 @@
 ![Status](https://img.shields.io/badge/Status-7th%20Semester-orange)
 ![Code](https://img.shields.io/badge/Code-Python%20%7C%20Bash%20%7C%20C%2B%2B-brightgreen)
 
-Estudiante de Ing. en Sistemas Computacionales enfocado en ciberseguridad (ofensiva y defensiva), seguridad en redes, análisis de amenazas y desarrollo de herramientas de seguridad. En búsqueda de oportunidades de internship, becario o roles junior en ciberseguridad, ingeniería de redes y operaciones de seguridad (SOC).
+Estudiante de Ingeniería en Sistemas Computacionales enfocado en ciberseguridad (ofensiva y defensiva), seguridad en redes, análisis de amenazas y desarrollo de herramientas de seguridad. En búsqueda de oportunidades de internship, becario o roles junior en ciberseguridad, ingeniería de redes y operaciones de seguridad (SOC).
 
 - B.S. Ingeniería en Sistemas Computacionales — TecNM Campus Cuautla (7° Semestre)
 - Especialización Oficial en Inteligencia de Negocios y Ciencia de Datos
@@ -14,48 +14,59 @@ Estudiante de Ing. en Sistemas Computacionales enfocado en ciberseguridad (ofens
 
 ---
 
-## Portfolio
+## 🧠 Mi Filosofía de Seguridad: Enfoque de 5 Niveles
 
-| Repositorio | Descripción |
-|---|---|
-| [crypto-fundamentals-lab](https://github.com/jxsewv/crypto-fundamentals-lab) | Criptografía aplicada y verificación de integridad — cifrado César/Vigenère, cracking de hashes y monitoreo de archivos |
-| [network-security-tools](https://github.com/tu-usuario/network-security-tools) | Reconocimiento, análisis de tráfico y hardening de red — escáner de puertos, sniffer, fuerza bruta SSH y firewall CLI |
-| [defense-and-web-lab](https://github.com/tu-usuario/defense-and-web-lab) | Defensa activa y seguridad web — análisis de logs, honeypot SSH y auditoría de vulnerabilidades OWASP |
-| [iot-hardware-security](https://github.com/tu-usuario/iot-hardware-security) | Seguridad en IoT y redes inalámbricas con ESP32 — deauther Wi-Fi, Evil Twin, BadUSB y comunicación cifrada |
-| [purpleteam-lab](https://github.com/tu-usuario/purpleteam-lab) | Laboratorio Purple Team — emulación de adversarios, detección de TTPs y análisis de intrusiones con MITRE ATT&CK |
-| [soc-siem-lab](https://github.com/tu-usuario/soc-siem-lab) | Laboratorio SOC/SIEM — correlación de eventos, reglas de detección y análisis de alertas con Wazuh/ELK |
+Mi desarrollo técnico sigue una narrativa de madurez progresiva, asegurando que no solo sé usar herramientas, sino que comprendo la tecnología subyacente:
 
----
-
-## Featured Work
-
-**[Purple Team Lab — Emulación de Adversarios & Detección](https://github.com/tu-usuario/purpleteam-lab)**  
-Laboratorio completo de emulación de técnicas de ataque mapeadas a MITRE ATT&CK. Análisis de la telemetría generada, mapeo de TTPs de amenazas y diseño de reglas de detección de comportamiento para escenarios de intrusión.
-
-**[SOC / SIEM Lab — Monitoreo Activo con Wazuh & ELK](https://github.com/tu-usuario/soc-siem-lab)**  
-Entorno de monitoreo SOC enfocado en la centralización y correlación de logs. Desarrollo de reglas de detección personalizadas, gestión y triaje de alertas de seguridad, y monitoreo de integridad de archivos.
-
-**[IoT & Hardware Security Lab con ESP32](https://github.com/tu-usuario/iot-hardware-security)**  
-Investigación y desarrollo de pruebas de concepto para vectores de ataque en hardware y redes inalámbricas. Implementación de ataques Deauth Wi-Fi, Evil Twin, inyección HID (BadUSB) y canales de comunicación cifrados en microcontroladores.
-
-**[Network Security & Reconnaissance Tools](https://github.com/tu-usuario/network-security-tools)**  
-Suite de herramientas defensivas y ofensivas desarrolladas en Python. Incluye escáner de puertos multihilo, sniffer de paquetes de red, script para auditoría de fuerza bruta en servicios SSH y un cortafuegos basado en CLI.
+1. **Entender (Understand):** Fundamentos sólidos en Criptografía, Redes, Arquitectura Linux y desarrollo web/IoT.
+2. **Atacar (Attack):** Ejecución de reconocimiento, fuerza bruta, auditorías web y explotación de redes inalámbricas.
+3. **Detectar (Detect):** Despliegue de monitoreo de logs, configuración de IDS y creación de reglas de detección.
+4. **Responder (Respond):** Investigación de incidentes, análisis de amenazas e inteligencia mapeada a MITRE ATT&CK.
+5. **Integrar (Integrate):** Unificación de habilidades en entornos de *Home Lab* complejos, administrando servidores e infraestructura desde cero.
 
 ---
 
-## Skills & Frameworks
+## 🛡️ Roadmap de Ciberseguridad (Niveles 1 al 4)
 
-**Defensiva & SOC:** Wazuh SIEM | ELK Stack | Monitoreo de logs | Reglas de detección | MITRE ATT&CK | Detección de intrusiones
+> Roadmap práctico de ciberseguridad compuesto por 15 proyectos organizados en cuatro fases progresivas, abarcando seguridad ofensiva, seguridad en redes, seguridad defensiva, seguridad web y seguridad en IoT/hardware.
 
-**Ofensiva & Auditoría:** Escaneo y reconocimiento | Análisis de tráfico (Wireshark) | OWASP Top 10 | Seguridad IoT & Wireless | Hacking ético
+| Fase | Área | Proyectos | Repositorio | Estado |
+|:---:|---|:---:|---|:---:|
+| **01** | Criptografía & Fundamentos | 4 | [`crypto-fundamentals-lab`](https://github.com/jxsewv/crypto-fundamentals-lab) | 🟢 |
+| **02** | Seguridad en Redes | 4 | [`network-security-tools`](https://github.com/tu-usuario/network-security-tools) | 🟡 |
+| **03** | Defensa & Seguridad Web | 4 | [`defense-and-web-lab`](https://github.com/tu-usuario/defense-and-web-lab) | ⚪ |
+| **04** | Seguridad en IoT & Hardware | 3 | [`iot-hardware-security`](https://github.com/tu-usuario/iot-hardware-security) | ⚪ |
 
-**Programación & Criptografía:** Python | Bash | C++ | Cifrado Simétrico/Asimétrico | Cracking de hashes | Verificación de integridad (SHA-256/MD5)
-
-**Sistemas & Plataformas:** Linux (Kali / Ubuntu) | VirtualBox / VMware | ESP32 | TryHackMe | Git / GitHub
+**Estado (Progreso de la fase):** 🟢 Completado | 🟡 En progreso | ⚪ Planeado
 
 ---
 
-## Certifications & Education
+## 🚀 Capstone projects: Laboratorios Avanzados de Seguridad (Nivel 5)
+
+Actualmente en fase de diseño e implementación de infraestructura sobre entornos virtuales y servidores locales:
+
+* 🟡 **SOC / SIEM Lab** — Despliegue de monitoreo centralizado con Wazuh/ELK, ingeniería de detección y gestión de alertas *(En desarrollo)*.
+* ⚪ **Purple Team Lab** — Emulación de adversarios y validación de detecciones mapeadas a MITRE ATT&CK *(Próximamente)*.
+
+---
+
+## 🛠️ Habilidades Técnicas & Tecnologías
+
+**Seguridad Defensiva**  
+Wazuh, ELK Stack, monitoreo de logs, reglas de detección, MITRE ATT&CK
+
+**Seguridad Ofensiva**  
+Reconocimiento de red, análisis de tráfico (Wireshark), OWASP Top 10, seguridad inalámbrica
+
+**Programación & Bases de Datos**  
+Python, Bash, C++, SQL (PostgreSQL / SQLite)
+
+**Sistemas e Infraestructura**  
+Linux (Kali / Debian / Ubuntu), administración CLI, virtualización (VirtualBox/VMware), ESP32, Git/GitHub
+
+---
+
+## 🎓 Educación & Certificaciones
 
 - **Ingeniería en Sistemas Computacionales** — TecNM Campus Cuautla
 - **TryHackMe Paths** — Red Teaming / SOC Level 1 (En progreso)
@@ -63,7 +74,7 @@ Suite de herramientas defensivas y ofensivas desarrolladas en Python. Incluye es
 
 ---
 
-## Connect
+## 🌐 Contacto
 
 - [LinkedIn](https://www.linkedin.com/in/jose-pablo-jimenez/)
 - [TryHackMe](https://tryhackme.com/p/tu-usuario)
