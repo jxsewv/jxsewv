@@ -1,4 +1,4 @@
-# Jose Jiménez | Cybersecurity-focused Systems Engineering Student
+# José Jiménez | Cybersecurity-focused Systems Engineering Student
 
 ![CTI](https://img.shields.io/badge/Focus-Cyber%20Threat%20Intelligence-purple)
 ![Framework](https://img.shields.io/badge/Framework-MITRE%20ATT%26CK-red)
